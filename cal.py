@@ -7,7 +7,7 @@ import time
 import calendar
 print("............Welcome To My Calender...........")
 time.sleep(0.5)
-fo=open("sam.txt","w+")
+fo=open("cal.txt","w+")
 print("Enter year and month you want to view calendar")
 time.sleep(0.5)
 y=int(input("Enter year: "))
